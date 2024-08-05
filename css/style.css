@@ -4,6 +4,17 @@
   height: 200px;
 }
 
+.back a{
+  display: flex;
+  align-items: center;
+  color: goldenrod;
+  font-size: 2rem;
+  margin-left: 1%;
+  }
+  .back p{
+    margin-left: 1%;
+  }
+
 
 @media screen and (max-width: 991px) {
   .images {
